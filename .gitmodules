@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "privacyR"]
 	path = privacyR
-	url = https://github.com/cran/privacyR
+	url = https://github.com/vikrant31/privacyr
