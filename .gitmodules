@@ -5,6 +5,9 @@
 [submodule "HCUPtools"]
 	path = HCUPtools
 	url = https://github.com/vikrant31/hcuptools
+[submodule "autoFlagR"]
+	path = autoFlagR
+	url = https://github.com/vikrant31/autoflagr
 [submodule "privacyR"]
 	path = privacyR
 	url = https://github.com/vikrant31/privacyr
